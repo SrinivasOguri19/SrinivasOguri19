@@ -1,4 +1,4 @@
-<img src="assets/profile.jpg" align="right" width="185" alt="Venkata Srinivas" />
+<img src="assets/profile.jpeg" align="right" width="185" alt="Venkata Srinivas" />
 
 ### Venkata Srinivas
 
