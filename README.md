@@ -2,7 +2,7 @@
 
 ### Venkata Srinivas
 
-I build the unglamorous infrastructure that makes AI features actually hold up in production — APIs, pipelines, guardrails, tests.
+I build the unglamorous infrastructure that makes AI features actually hold up in production - APIs, pipelines, guardrails, tests.
 
 Right now I'm at **Arizona State University** finishing an **MS in Software Engineering** (Dec 2026). I also ship there: an LLM-powered grading platform that 5 professors run across 7 courses, handling 3,000+ submissions a semester. Before grad school I spent five years at Analytics Quad4 building demand-forecasting systems for 10,000+ SKUs on AWS.
 
